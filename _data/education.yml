@@ -1,13 +1,10 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Offensive Security Certified Professional (OSCP)
+  uni: Offsec
+  year: 2023
+  summary: Highly respected and challenging certification focused on practical hands-on penetration testing.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: CS50&#58; Introduction to Computer Science
+  uni: HarvardX
+  year: 2023
+  summary: Popular introductory computer science course offered by Harvard University that teaches students the fundamentals of programming and computer science.

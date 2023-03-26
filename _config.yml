@@ -23,7 +23,7 @@ resume_contact_address:         "Chicago, IL"
 resume_header_contact_info:     "Chicago, IL • 872-228-7732 • chancej715@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a self-employed full stack developer with a background in software development in JavaScript, Python, and C. I am pursuing studies towards the Offensive Security Certified Professional (OSCP) examination, and I am actively seeking an opportunity to enter the cyber security field, particularly as a penetration tester.</p>"
+resume_header_intro:            "<p>I am a self-employed full stack developer with a background in software development in JavaScript, Python, and C. I am pursuing studies towards the Offensive Security Certified Professional (OSCP) examination, and I am actively seeking an opportunity to enter the cyber security field, particularly as a penetration tester.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,10 +36,10 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_skills:          false
+resume_section_recognition:     false
 resume_section_links:           true
-resume_section_associations:    true
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
