@@ -1,6 +1,6 @@
 # Site settings
 title: "Chance Johnson"
-description: "My single page resume."
+description: "My resume."
 
 # Build settings
 markdown: kramdown
