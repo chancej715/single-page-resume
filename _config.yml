@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Chance Johnson"
-resume_title:                   "Penetration Tester"
+resume_title:                   "Security Consultant"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "chancej715@gmail.com"
