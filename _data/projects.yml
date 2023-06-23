@@ -1,5 +1,4 @@
 - project: Raw Traffic
-  role: Creator and Primary Developer
   duration: 2023
   url: "https://github.com/chancej715/raw-traffic"
   description: Packet capture program created with the libpcap network traffic capture library.
